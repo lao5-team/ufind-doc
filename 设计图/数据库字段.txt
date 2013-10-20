@@ -1,0 +1,8 @@
+1._id
+2.openid   qq登录成功后返回的id
+3.ownid    应用自己的id
+4.userid   昵称
+5.userpwd  密码
+6.frindsid  朋友table的id
+7.recordid  聊天记录table的id
+8.picture   图片链接
