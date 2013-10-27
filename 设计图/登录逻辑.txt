@@ -1,0 +1,13 @@
+登录逻辑
+1.如果本地没有用户名和密码信息。则直接进入登录界面
+2.如果本地有用户名和密码信息，则尝试登录，如果登录成功，进入应用主界面。
+  否则进入登录界面。
+  
+3.登录成功，进入应用主界面
+
+用户信息 preference字段 Userinfo
+        登录方式        isLoginQQ boolean
+        用户名          username
+        密码            password
+        openID          openID
+        
