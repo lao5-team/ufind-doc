@@ -1,0 +1,40 @@
+public class FriendsManager
+{
+	ArrayList<User> mFriends;
+}
+
+public Meet
+{
+	GeoPoint meetLocation;
+	String locationContent;
+	ArrayList<User> members;
+	Date meetTime;
+	String meetContent;
+	Dialog dialog;
+}
+
+public MeetManager
+{
+	ArrayList<Meet> mMeets;
+	
+}
+
+public DialogItem
+{
+
+	Object obj;
+	Date time;
+	
+}
+
+public Dialog
+{
+	
+}
+
+
+
+
+
+
+

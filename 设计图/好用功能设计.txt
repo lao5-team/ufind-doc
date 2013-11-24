@@ -1,0 +1,13 @@
+1.准备2个用户作为测试号
+2.在通讯录左上角点击发起聚会
+3.选择好友
+4.地图上选择目的地。
+5.填写预定时间。
+6.完成。聚会会在聚会列表里列出。
+
+需要完成的工作：
+1.添加一个MeetListActivity，作为聚会列表，放在最左边的位置
+2.虚拟一个好友
+3.使用PlanActivity作为完成3,4,5功能的Activity
+4.点击MeetListActivity的一个item时，拉起MeetActivity，MeetActivity能以
+  对话和地图两种方式显示。
